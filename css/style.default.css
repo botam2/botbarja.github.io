@@ -2615,7 +2615,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #fff;
   padding: 25px 0;
   font-size: 12px;
-  line-height: 1px;
+  line-height: 10px;
 }
 #copyright p {
   margin: 0;
@@ -3162,7 +3162,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.42857143;
   color:  #1a1a1a;
   text-align: justify;
@@ -3388,7 +3388,7 @@ h3,
   margin-bottom: 20px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 0 8px;
 }
 .lead {
   margin-bottom: 20px;
