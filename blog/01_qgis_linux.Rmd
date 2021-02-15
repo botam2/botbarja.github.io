@@ -9,9 +9,10 @@ tags:
 - qgis
 title: QGIS DEV en GNU/LINUX
 ---
+
 <p align='center'>
- <a> <img src='https://user-images.githubusercontent.com/23284899/107885916-e63ae280-6eca-11eb-95f3-e7daf3eaa5ff.png' width="100%">
- </a>
+  <a> <img src='https://user-images.githubusercontent.com/23284899/107885916-e63ae280-6eca-11eb-95f3-e7daf3eaa5ff.png' width="100%">
+  </a>
 </p>
 
 Este tipo de publicaciones es lo que más me gusta realizar y compartir con la comunidad, ya que toca dos herramientas claves y fundamentales de mi **freewarelife**,
