@@ -1,6 +1,6 @@
 ---
 author: Antony Barja
-banner: https://user-images.githubusercontent.com/23284899/107886125-da035500-6ecb-11eb-8317-00d0d4dcb9d1.png
+banner: https://user-images.githubusercontent.com/23284899/107896412-36826680-6f04-11eb-90d6-a399d1d7eb38.png
 categories:
 - qgis
 date: "2015-10-02T21:49:20+02:00"
@@ -10,7 +10,7 @@ tags:
 title: QGIS DEV en GNU/LINUX
 ---
 <p align='center'>
- <a> <img src='https://user-images.githubusercontent.com/23284899/107885916-e63ae280-6eca-11eb-95f3-e7daf3eaa5ff.png' width=800>
+ <a> <img src='https://user-images.githubusercontent.com/23284899/107885916-e63ae280-6eca-11eb-95f3-e7daf3eaa5ff.png' width="100%">
  </a>
 </p>
 
@@ -28,7 +28,7 @@ enfocaremos en dos aspectos claves, estos son:
 
 <p align='center'>
  <a> <img src='https://scontent-lim1-1.xx.fbcdn.net/v/t1.0-9/143312407_5057084391028291_5911256213180492082_o.jpg?_nc_cat=111&ccb=3&_nc_sid=e3f864&_nc_eui2=AeGvsU8AVixOJqcYxEP0kMievA6Z-GZhLAe8Dpn4ZmEsBx4q9Xtk8Lvzra4An9Do0D2v5pgaiGUn3uz204k3g4-j&_nc_ohc=-YaBHz9EepUAX-DYQC_&_nc_ht=scontent-lim1-1.xx&oh=ade7d6e11d67e4dc7d176b461d512872&oe=604FD5DA
-' width=800>
+' width="100%">
  </a>
 </p>
 
@@ -85,13 +85,13 @@ que te puede ser de gran utilidad.
 
 Para poder seguir está publicación, nos dirigimos a la página oficial de QGIS ::  [<https://www.qgis.org/>](https://www.qgis.org/)
 <p align='center'>
- <a> <img src='https://user-images.githubusercontent.com/23284899/107882955-0b732500-6eba-11eb-8c25-c19dbbdf71f4.png' width=800>
+ <a> <img src='https://user-images.githubusercontent.com/23284899/107882955-0b732500-6eba-11eb-8c25-c19dbbdf71f4.png' width="100%">
  </a>
 </p>
 
 Luego procedemos a dirigimos a la sección de  **descargar para Linux**
 <p align='center'>
- <a> <img src='https://user-images.githubusercontent.com/23284899/107882958-12019c80-6eba-11eb-8854-26c02ec97f6b.png' width=800>
+ <a> <img src='https://user-images.githubusercontent.com/23284899/107882958-12019c80-6eba-11eb-8854-26c02ec97f6b.png' width="100%">
  </a>
 </p>
 
@@ -122,7 +122,7 @@ Como puedes notar en el mensaje anterior, se está trabajando con la distribuci�
 Entonces para poder instalar es necesario ver el siguiente cuadro de especificaciones:
 
 <p align='center'>
- <a> <img src='https://user-images.githubusercontent.com/23284899/107883948-07e29c80-6ec0-11eb-8b83-9d0b94ac570c.png' width=550>
+ <a> <img src='https://user-images.githubusercontent.com/23284899/107883948-07e29c80-6ec0-11eb-8b83-9d0b94ac570c.png' width="100%">
  </a>
 </p>
 
@@ -148,7 +148,7 @@ sudo apt install qgis qgis-plugin-grass
 Y listo ahora podemos explorar los nuevos features que trae el próximo lanzamiento de QGIS 🤓
 <br/>
 <p align='center'>
- <a> <img src='https://user-images.githubusercontent.com/23284899/107885393-0b7a2180-6ec8-11eb-9b1e-7a9b1b0ab2ee.png' width=800>
+ <a> <img src='https://user-images.githubusercontent.com/23284899/107885393-0b7a2180-6ec8-11eb-9b1e-7a9b1b0ab2ee.png' width="100%">
  </a>
 </p>
 
